@@ -1,4 +1,4 @@
-# lista_tarefas
+# task-list
 
 A Flutter app checklist.
 
